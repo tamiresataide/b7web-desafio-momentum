@@ -24,7 +24,7 @@ Uma observação importante é que o autor da frase não pode aparecer, exceto q
 ### Links
 
 - [B7Web](https://b7web.com.br/fullstack/)
-- [Live site]()
+- [Live site](https://tamiresataide.github.io/b7web-desafio-momentum/)
 
 
 
